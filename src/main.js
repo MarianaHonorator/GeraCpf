@@ -1,3 +1,6 @@
+// para rodar em navegadores mais antigos
+import 'core-js/stable'
+import 'regenerator-runtime/runtime'
 import GerarCPF from './modules/GeraCpf.mjs';
 import './assets/css/style.css';
 
